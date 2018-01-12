@@ -8,4 +8,4 @@ Dockerfiles for the custom images used in the book are stored here. Images built
 
 ## Looking for more _Succinctly_ titles?
 
-Check out the entire library of more than 130 _Succinctly_ e-books at [https://www.syncfusion.com/resources/techportal/ebooks](https://www.syncfusion.com/resources/techportal/ebooks).
+Check out the entire library of more than 130 _Succinctly_ e-books at [https://www.syncfusion.com/ebooks](https://www.syncfusion.com/ebooks).
